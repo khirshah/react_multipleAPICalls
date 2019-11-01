@@ -1,5 +1,5 @@
 {
-  "name": "clicktravel_public_apis_2",
+  "name": "fetch_public_apis",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
