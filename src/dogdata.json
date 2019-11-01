@@ -1,0 +1,14 @@
+{"dog":
+  {
+    "name": "Pinky",
+    "legs": 4,
+    "puppies": ["Jack","John","Fluffy"],
+    "owner":
+    {
+      "name": "Agi",
+      "age": null,
+      "occupation": "undefined"
+    },
+    "happy": true
+  }
+}
